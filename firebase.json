@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "FireChat/dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

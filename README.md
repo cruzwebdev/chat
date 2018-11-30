@@ -1,6 +1,6 @@
 # Chat
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8. http://cloud.connorangularchat.com.s3-website.us-west-2.amazonaws.com
 
 ## Development server
 

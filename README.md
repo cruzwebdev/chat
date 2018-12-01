@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a chatroom and direct message application. The application is built with Angular 6, Firebase and deployed on AWS. A user can create their own chatroom, go to a previously created chat room or directly message another user. My code is broken up down by pages which hold their components. 
+This is a chatroom and direct message application. The application is built with Angular 6, Firebase and deployed on AWS. A user can create their own chatroom, go to a previously created chat room or directly message another user. My code is broken up down by pages which hold their components. 
 
 View the deployed application here: http://cloud.connorangularchat.com.s3-website.us-west-2.amazonaws.com
 

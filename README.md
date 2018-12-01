@@ -26,7 +26,7 @@ View the deployed application here: http://cloud.connorangularchat.com.s3-websit
 _None._
 
 ## Under Construction
-The profile section is currently under construction. A user can upload a profile picture, but the bio does not update. I am adding functionality to send images in the chat section. I am working on optomizing the site for mobile.
+The profile section is currently under construction. A user can upload a profile picture, but the bio does not update. I am adding functionality to send images in the chat section. I am working on optimizing the site for mobile.
 
 ## Support and contact details
 

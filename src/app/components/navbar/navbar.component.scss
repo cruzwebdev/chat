@@ -1,14 +1,18 @@
-@import '../../../styles/variables';
+@import "../../../styles/variables";
 
-
-.nav-item,span {
-    color: #ffffff;
+.nav-item,
+span {
+  color: #ffffff;
 }
 a {
-    color: $light-grey;
-    margin-left: 3em;
+  color: $light-grey;
+  margin-left: 3em;
 
-    &.active {
-        border-bottom: 3px solid $gold;
-    }
+  &.active {
+    border-bottom: 3px solid $gold;
+  }
+}
+
+.navbar-nav {
+  display: -webkit-box;
 }
